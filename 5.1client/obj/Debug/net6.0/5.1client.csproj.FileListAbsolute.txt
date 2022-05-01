@@ -1,0 +1,15 @@
+C:\Users\justin.holsclaw\Desktop\5.1client\bin\Debug\net6.0\5.1client.exe
+C:\Users\justin.holsclaw\Desktop\5.1client\bin\Debug\net6.0\5.1client.deps.json
+C:\Users\justin.holsclaw\Desktop\5.1client\bin\Debug\net6.0\5.1client.runtimeconfig.json
+C:\Users\justin.holsclaw\Desktop\5.1client\bin\Debug\net6.0\5.1client.dll
+C:\Users\justin.holsclaw\Desktop\5.1client\bin\Debug\net6.0\ref\5.1client.dll
+C:\Users\justin.holsclaw\Desktop\5.1client\bin\Debug\net6.0\5.1client.pdb
+C:\Users\justin.holsclaw\Desktop\5.1client\obj\Debug\net6.0\5.1client.csproj.AssemblyReference.cache
+C:\Users\justin.holsclaw\Desktop\5.1client\obj\Debug\net6.0\5.1client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justin.holsclaw\Desktop\5.1client\obj\Debug\net6.0\5.1client.AssemblyInfoInputs.cache
+C:\Users\justin.holsclaw\Desktop\5.1client\obj\Debug\net6.0\5.1client.AssemblyInfo.cs
+C:\Users\justin.holsclaw\Desktop\5.1client\obj\Debug\net6.0\5.1client.csproj.CoreCompileInputs.cache
+C:\Users\justin.holsclaw\Desktop\5.1client\obj\Debug\net6.0\5.1client.dll
+C:\Users\justin.holsclaw\Desktop\5.1client\obj\Debug\net6.0\ref\5.1client.dll
+C:\Users\justin.holsclaw\Desktop\5.1client\obj\Debug\net6.0\5.1client.pdb
+C:\Users\justin.holsclaw\Desktop\5.1client\obj\Debug\net6.0\5.1client.genruntimeconfig.cache
